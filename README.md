@@ -1,16 +1,104 @@
-# Portfolio
-# 🏪 Business Operations & ROI Forecast
+# 🚗 New Zealand Road Crash Dashboard
 
-## 📌 Live Interactive Dashboard
-👉 **[Tableau Public ](Tableau Public Link)**
-https://public.tableau.com/views/assignment3_17768254059460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## 📌 Project Overview
+
+This project presents an interactive Power BI dashboard analysing road crash data in New Zealand from 2017 to 2026.
+
+The dashboard provides insights into crash trends, regional differences, fatalities, injuries, and traffic offences to support data-driven decision making.
+
 ---
 
-## 📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+## 📊 Dashboard Preview
 
-## 🎯 Key Insights
-🎯 Key Insights & Technical Highlights
-* **Data Integration & Cleaning**: Utilized advanced SQL to perform multi-table joins, aggregations, and data preprocessing, constructing a robust and structured database for analysis.
-* **Advanced Visualization**: Developed interactive dual-axis dynamic maps and granular data tracking modules within Tableau to present performance metrics intuitively.
-* **Forward-Looking Risk Alert**: Implemented a predictive risk warning system to assist management in identifying potential budget deviations and optimizing project ROI proactively.
+> Add a screenshot of your dashboard here.
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## 🎯 Objectives
+
+- Analyse road crash trends over time
+- Compare crash statistics across regions
+- Monitor fatal, serious, and minor injuries
+- Explore traffic offence patterns
+- Build an interactive dashboard using Power BI
+
+---
+
+## 🛠️ Tools Used
+
+- Power BI Desktop
+- DAX
+- Data Modelling
+- Microsoft Excel
+
+---
+
+## 📈 Dashboard Features
+
+- KPI Cards
+  - Total Crashes
+  - Fatal Crashes
+  - Serious Injuries
+  - Vehicle Statistics
+
+- Interactive Year Slicer
+
+- Regional Comparison
+
+- Trend Analysis
+
+- Donut Chart
+
+- Stacked Column Chart
+
+---
+
+## 📂 Dataset
+
+The dataset includes:
+
+- Road crashes
+- Injury counts
+- Regional information
+- Traffic offences
+- Vehicle information
+
+---
+
+## 📸 Dashboard Highlights
+
+### Crash Trends
+
+Analyse changes in crash numbers across different years.
+
+### Regional Analysis
+
+Compare crashes and offences between New Zealand regions.
+
+### Traffic Offences
+
+Visualise alcohol, mobile phone and red-light offences.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Modelling
+- DAX Calculations
+- Dashboard Design
+- Data Visualisation
+- Business Intelligence
+
+---
+
+## 👤 Author
+
+**Janson Jiang**
+
+Master of Business Analytics  
+University of Waikato
+
+GitHub: https://github.com/你的用户名
